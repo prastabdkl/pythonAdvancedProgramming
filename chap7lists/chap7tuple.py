@@ -8,7 +8,7 @@ value = (1) # Creates an integer.
 number_tuple = (1, 2, 3)
 number_list = list(number_tuple) 
 print(number_list) 
-#[1,2, 3]
+#[1,2,3]
 str_list = ['one', 'two', 'three'] 
 str_tuple = tuple(str_list) 
 print(str_tuple)
