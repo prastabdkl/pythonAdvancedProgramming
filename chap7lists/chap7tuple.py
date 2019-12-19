@@ -13,3 +13,5 @@ str_list = ['one', 'two', 'three']
 str_tuple = tuple(str_list) 
 print(str_tuple)
 #('one', 'two', 'three')
+
+#WAP to generate a list of 30 random numbers, sort the list, convert the list to tuple, store the following elements in the list: 1,2,3 element, 10 to 20, and last 3 elements and find the sum of these elements
