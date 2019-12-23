@@ -5,12 +5,13 @@ def main():
     x_coords = [0, 1, 2, 3, 4]
     y_coords = [0, 3, 1, 5, 2]
     # Build the line graph.
-    plt.plot(x_coords, y_coords)
+    plt.plot(x_coords, y_coords,'o')
     # Add a title.
     plt.title('Sample Data')
     # Add labels to the axes.
     plt.xlabel('This is the X axis')
     plt.ylabel('This is the Y axis')
+    
     # Add a grid.
     plt.grid(True)
     # Display the line graph.
