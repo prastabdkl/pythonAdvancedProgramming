@@ -1,6 +1,11 @@
 # This program gets employee data from the user and
 # saves it as records in the employee.txt file.
-# read the records and show until the end is reached
+# read the records and show until the end is reached handles the value errors, 
+# read file error and searches the file until the end is reached 
+#
+# Author: Prastab Dhakal
+# Chapter: Files and Exception
+
 def write_records():
     # Get the number of employee records to create.
     num_emps = int(input('How many employee records ' +'do you want to create? '))

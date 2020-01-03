@@ -21,8 +21,8 @@ def main():
     except Exception as e:
         print('That item was not found in the list.',e)
     """
-    finally:
-        del food
-        print('Food is deleted')
-    # Call the main function.
+    # finally:
+    #     del food
+    #     print('Food is deleted')
+    # # Call the main function.
 main()

@@ -1,3 +1,6 @@
+# two dimensional list
+# # Author: Prastab Dhakal
+# Chapter: Lists and tuples
 import random
 # Constants for rows and columns
 ROWS = 3

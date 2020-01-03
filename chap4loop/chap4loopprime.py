@@ -1,3 +1,7 @@
+# A program to print prime number within given range
+# Author: Prastab Dhakal
+# Chapter: Loops
+
 #num= 64
 flag=0
 lower = int(input('Enter the lower limit'))

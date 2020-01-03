@@ -1,3 +1,7 @@
+# pattern loops in python
+# Author: Prastab Dhakal
+# Chapter: Loops
+
 rows,cols=2,3
 """ 
 rows = int(input('How many rows? '))

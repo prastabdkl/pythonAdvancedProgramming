@@ -1,4 +1,7 @@
 #a program to input a number and find the square of that number
+# 
+# Author: Prastab Dhakal
+# Chapter: functions
 def main():
     number= int(input('Enter a number'))
     calculate_square(number)

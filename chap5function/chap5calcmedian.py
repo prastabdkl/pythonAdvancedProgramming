@@ -1,3 +1,6 @@
+# A program that calculates median of numbers in a list
+# Author: Prastab Dhakal
+# Chapter: functions
 import math
 def get_input():
     new_list = []

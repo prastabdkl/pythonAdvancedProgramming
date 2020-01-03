@@ -1,3 +1,6 @@
+# A program to print random numbers within a range
+# Author: Prastab Dhakal
+# Chapter: functions
 import random
 #  Create a global variable.
 number = 0

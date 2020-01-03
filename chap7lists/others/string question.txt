@@ -1,0 +1,3 @@
+string = 'The beauty of mountain is seen actually when you visit the mountain.'
+
+#WAP to count the number of 'a' and 't' in the above string.

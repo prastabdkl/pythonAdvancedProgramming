@@ -1,5 +1,8 @@
 # This program demonstrates passing two strings as
 # keyword arguments to a function.
+# 
+# Author: Prastab Dhakal
+# Chapter: functions
 def main():
     first_name = input('Enter your first name: ')
     last_name = input('Enter your last name: ')

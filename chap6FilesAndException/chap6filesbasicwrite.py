@@ -1,5 +1,9 @@
-# This program writes three lines of data
-# to a file.
+# This program writes three lines of data to a file.
+#
+# Author: Prastab Dhakal
+# Chapter: Files and Exception
+
+
 def main():
     # Open a file named philosophers.txt.
     outfile = open('philosophers.txt', 'w')

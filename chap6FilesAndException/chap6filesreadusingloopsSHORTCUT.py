@@ -1,5 +1,10 @@
 # This program uses the for loop to read
 # all of the values in the sales.txt file.
+#
+# Author: Prastab Dhakal
+# Chapter: Files and Exception
+
+
 def main():
     # Open the sales.txt file for reading.
     sales_file = open('sales.txt', 'r')

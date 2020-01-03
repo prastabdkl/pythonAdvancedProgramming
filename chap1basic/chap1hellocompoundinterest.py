@@ -1,3 +1,7 @@
+# This program calculates the compound interest
+# Author: Prastab Dhakal
+# Basics
+
 #present_value = future_value / (1.0 + rate)**years
 
 # Get the desired future value.

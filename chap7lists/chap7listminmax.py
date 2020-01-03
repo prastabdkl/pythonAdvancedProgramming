@@ -1,9 +1,12 @@
+# A program to find the greatest and smallest in a list 
+# 
+# Author: Prastab Dhakal
+# Chapter: Lists
+
 """ list1 = [15,10,25,17,13]
 new_list1 = []
- 
-for i in range(0,len(list1)):
+ for i in range(0,len(list1)):
     print(new_list1[i])
-
 print()
 for i in range(5):
     print(list1[i])
