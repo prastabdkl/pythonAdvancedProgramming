@@ -1,4 +1,9 @@
+
 # This program calculates retail prices.
+# 
+# Author: Prastab Dhakal
+# Chapter: Loops
+
 MARK_UP = 2.5 # The markup percentage
 
 def main():

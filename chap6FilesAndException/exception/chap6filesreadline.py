@@ -9,7 +9,7 @@ def main():
     #open a file named hello.txt in read mode
     try:
         infile = open('hello.txt','r')
-    except FileNotFoundError as E:
+    except FileNotFoundError: # as E:
         print('File not found')
 
 

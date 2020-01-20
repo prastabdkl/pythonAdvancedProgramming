@@ -1,3 +1,8 @@
+# Basics of creating a list slicing and searching
+# # 
+# Author: Prastab Dhakal
+# Chapter: Lists
+
 numbers = list(range(5))
 print(numbers)
 numbers = list(range(1, 10, 2))

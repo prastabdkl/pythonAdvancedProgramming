@@ -1,5 +1,8 @@
 # The circle module has functions that perform
 # calculations related to circles.
+# Author: Prastab Dhakal
+# Chapter: Functions and menu based program
+
 import math
 # The area function accepts a circle's radius as an
 # argument and returns the area of the circle.

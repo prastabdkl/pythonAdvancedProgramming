@@ -1,3 +1,7 @@
+#basics of tuple
+# Author: Prastab Dhakal
+# Chapter: Lists and tuples
+
 my_tuple = (1, 2, 3, 4, 5)
 print(my_tuple)
 #append, remove, insert, reverse, and sort. do not work in tuple

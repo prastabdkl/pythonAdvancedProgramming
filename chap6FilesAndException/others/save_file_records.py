@@ -4,7 +4,7 @@
 # read file error and searches the file until the end is reached 
 #
 # Author: Prastab Dhakal
-# Chapter: Files and Exception
+# Chapter: Files and Exception(Complex problem)
 
 def write_records():
     # Get the number of employee records to create.

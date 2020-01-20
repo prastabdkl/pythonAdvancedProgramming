@@ -1,3 +1,12 @@
+# #WAP that accepts a password when it has
+#   at least
+        # 1 digit,
+        # 1 uppercase
+        # 1 lowercase
+        # 1 special character and at least 8 chars in length
+
+# Author: Prastab Dhakal
+# Chapter: Lists and tuples
 digit_found = False
 upper_found = False
 lower_found = False

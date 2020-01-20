@@ -1,3 +1,7 @@
+# classwork to write data about 3 friends and read it and print it
+# Author: Prastab Dhakal
+# Chapter: Files and Exception
+
 def main():
 
     #Input the names of three friends

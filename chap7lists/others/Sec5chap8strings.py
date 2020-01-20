@@ -1,3 +1,7 @@
+# A program to count the characters in a string
+# Author: Prastab Dhakal
+# Chapter: strings 
+
 string ='The beauty of mountain is only seen when you actually visit the mountain'
 count_a = count_t = 0
 for char in string:

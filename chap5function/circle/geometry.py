@@ -1,6 +1,9 @@
 # This program allows the user to choose various
 # geometry calculations from a menu. This program
 # imports the circle and rectangle modules.
+# Author: Prastab Dhakal
+# Chapter: Functions and menu based program
+
 import circle
 # Constants for the menu choices
 AREA_CIRCLE_CHOICE = 1

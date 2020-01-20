@@ -5,6 +5,7 @@ store the following elements in the list:
 	 10 to 20,
 	 and last 3 elements 
  and find the sum of these elements """
+ 
 import random
 def get_input():
     random_list = []

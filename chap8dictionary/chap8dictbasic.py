@@ -80,7 +80,7 @@ for x in [1,2,3]:
     for y in [3,1,4]:
         if x != y:
             combs.append((x, y))
-
+print("combs:",combs)
 """
 dict1 = {'ram':1234,'shyam':4567,'hari':'Harry'}
 print(dict1)

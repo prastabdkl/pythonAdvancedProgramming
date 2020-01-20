@@ -1,3 +1,7 @@
+# Basic of exceptions
+# Author: Prastab Dhakal
+# Chapter: Exceptions
+
 def normal_division_with_exception():
     num1 = int(input('Enter a divisor'))
     num2 = int(input('Enter a dividend'))
