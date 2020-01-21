@@ -46,5 +46,6 @@ value = dict1.pop('ram','no such key found') #remove item ac/t to key
 print(dict1)
 key,value = dict1.popitem() #randomly delete an item
 print(dict1)
+
 dict1.clear()
 print(dict1)

@@ -1,9 +1,9 @@
 """
-# Introduction to classes
-# Author: Prastab Dhakal
-# Chapter: Classes and objects 
-# The Coin class simulates a coin that can be flipped.
-# """
+Introduction to classes
+Author: Prastab Dhakal
+Chapter: Classes and objects 
+The Coin class simulates a coin that can be flipped.
+"""
 
 import random
 class Coin:
@@ -31,6 +31,8 @@ class Coin:
 def main():
     # Create an object from the Coin class.
     my_coin = Coin()
+    my_coin.x = 10
+    print(my_coin.x)
     # Display the side of the coin that is facing up.
     print('This side is up:', my_coin.get_sideup())
     # Toss the coin.
@@ -40,6 +42,6 @@ def main():
     #my_coin.sideup ='Heads' #accessing public members
 
     print('This side is up:', my_coin.get_sideup())
-help(Coin)
+#help(Coin)
 # Call the main function.
 main()
