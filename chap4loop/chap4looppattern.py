@@ -1,3 +1,7 @@
+# pattern loops in python
+# Author: Prastab Dhakal
+# Chapter: Loops
+
 rows,cols=2,3
 """ 
 rows = int(input('How many rows? '))
@@ -19,5 +23,11 @@ for r in range(BASE_SIZE):
 
 for r in range(NUM_STEPS):
     for c in range(r):
-        print(' ', end='')
+        print('1', end='')
     print('#')
+    
+num = int(input('Enter a number'))
+fact = 1
+for num in range(1,num+1):
+    fact=fact*num
+print(fact)

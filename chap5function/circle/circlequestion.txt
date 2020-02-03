@@ -1,0 +1,16 @@
+# import math 
+# math.pi math.sqrt math.sin math.floor math.ceil math.abs
+# circle.py  get_area() to return area
+                math.pi * r * r
+                math.pi * pow(r,2)
+                math.pi * r ** 2
+            get_circumference() to return the get_circumference
+                2*math.pi*r
+#geometry.py WUMPUS WORLD
+# MENU BASED program
+# 1) AREA of circle
+# 2) CIRCUMFERENCE of circle
+# 3) TSA of Cylinder 
+                    2*pi*r*r + 2 * pi* r* h 
+                    2* circle.get_area(r)+ h* circle.get_cirumference(r)
+# 4) QUIT the program

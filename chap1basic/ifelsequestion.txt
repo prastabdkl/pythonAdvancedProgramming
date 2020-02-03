@@ -1,0 +1,18 @@
+if condition:
+    statements
+    statements
+elif condition:
+    statements
+    statements
+elif condition:
+    statements
+    statements
+else:
+    statements
+WAP to input marks of student and show
+the grade obtained using following table
+ marks >= 90    Grade: A
+ marks 80-90    Grade: B
+ marks 70-80    Grade: C
+ marks 60-70    Grade: D
+ marks <60      Grade: F
