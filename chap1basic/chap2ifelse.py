@@ -1,5 +1,6 @@
-# This program gets a numeric test score from the
-# user and displays the corresponding letter grade.
+# This program gets a numeric test score from the user and displays the corresponding letter grade.
+# Author: Prastab Dhakal
+# Chapter: conditional statements
 
 # Named constants to represent the grade thresholds
 A_SCORE = 90
