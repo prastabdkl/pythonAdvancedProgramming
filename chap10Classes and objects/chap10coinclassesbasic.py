@@ -31,8 +31,8 @@ class Coin:
 def main():
     # Create an object from the Coin class.
     my_coin = Coin()
-    my_coin.x = 10
-    print(my_coin.x)
+    # my_coin.x = 10
+    # print(my_coin.x)
     # Display the side of the coin that is facing up.
     print('This side is up:', my_coin.get_sideup())
     # Toss the coin.

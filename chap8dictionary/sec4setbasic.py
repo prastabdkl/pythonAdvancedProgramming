@@ -51,13 +51,10 @@ print('Set1:',set1,'set2:',set2,'intersection set',set1 & set2)
 set3 = set1.difference(set2)
 print('Set1:',set1,'set2:',set2,'difference set',set3)
 print('Set1:',set1,'set2:',set2,'difference set',set1 - set2)
-
 set3 = set1.symmetric_difference(set2)
 print('Set1:',set1,'set2:',set2,'symmetric_difference set',set3)
 print('Set1:',set1,'set2:',set2,'symmetric_difference set',set1 ^ set2)
-
 set1 = set([1,2,3,4])
 set2 = set([3,4])
-
 print(set2.issubset(set1),'or',set2 <= set1)
 print(set2.issuperset(set1),'or',set2 >= set1)
