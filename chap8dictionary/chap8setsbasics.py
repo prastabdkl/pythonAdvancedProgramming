@@ -3,15 +3,15 @@
 # Chapter: Dictionary and sets
 myset = set('abc')
 print(myset)
-myset = set('aaabc')
+myset = set('aaabc')#does not take duplicates
 print(myset)
 
-myset = set('one two three')
+myset = set('one two three') #takes single element
 print(myset)
-myset = set(['one', 'two', 'three'])
+myset = set(['one', 'two', 'three'])#keeps as an element
 print(myset)
 
-myset1 = set('[12,33,13]')
+myset1 = set('[12,33,13]') #removes duplicates
 print('len of', myset1, 'is:',len(myset1))
 
 myset2 = set([12,33,13])
@@ -35,6 +35,7 @@ set2 = set([40, 50, 60])
 set1.update(set2)
 print(set1) 
 #set1.remove(5)
+
 print("remove:",set1) #gives keyerror
 set1.discard(5)
 print("discard",set1)

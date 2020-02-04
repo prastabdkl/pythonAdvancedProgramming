@@ -1,6 +1,6 @@
-# Introduction to classes and hiding a vaiable
-# Author: Prastab Dhakal
-# Chapter: Classes and objects
+# Introduction to classes and hiding a vaiable using private variable and 
+# a program to toss a coin
+
 
 import random
 # The Coin class simulates a coin that can
@@ -10,7 +10,6 @@ class Coin:
     # __sideup data attribute with 'Heads'.
     def __init__(self):
         self.__sideup = 'Heads'
-
     # The toss method generates a random number
     # in the range of 0 through 1. If the number
     # is 0, then __sideup is set to 'Heads'.
