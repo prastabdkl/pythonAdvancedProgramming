@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+# https://www.journaldev.com/15539/python-mysql-example-tutorial
+
+import PyMySQL as pymysql
+=======
 import pymysql
 #import mysql.connector
+>>>>>>> 7b2e7704a6f63f5cfc2be1b883ec2bc3d73d678b
 #database connection, conntect take sfour arguments, hostname and others
 #connection = mysql.connector.connect(.....)
 connection = pymysql.connect(host = 'localhost',user = 'root',passwd ='',database ='ap_db')
