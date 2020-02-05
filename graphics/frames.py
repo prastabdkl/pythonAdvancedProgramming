@@ -13,7 +13,7 @@ class MyGUI:
         self.bottom_frame = tkinter.Frame(self.main_window)
         # Create three Label widgets for the
         # top frame.
-        self.label1 = tkinter.Label(self.top_frame,text = 'First Line',font=('Arial Bold',50))
+        self.label1 = tkinter.Label(self.top_frame,text = 'First Line',font=(50))
         self.label2 = tkinter.Label(self.top_frame,text = 'Second Line')
         self.label3 = tkinter.Label(self.top_frame,text = 'Third Line')
         # Pack the labels that are in the top frame.
